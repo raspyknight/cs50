@@ -14,5 +14,6 @@ Your project should be more complex than most of those demonstrated in lecture (
 
 Simulates the process of "wishing" in Genshin Impact
 
-- Different drop rates for different rarity of items
-- Pity system
+- 5 star item => 0.6%, 1.6% with pity
+- 4 star item => 5.1%, 13% with pity
+
